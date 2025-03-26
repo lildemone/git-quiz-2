@@ -1,4 +1,5 @@
 GIT Interview quiz 2
+
 1.Popular Git Hosting Services:  GitHub, GitLab, Bitbucket, Azure DevOps, SourceForge.
 
 2.Types of Git Repositories:  Bare repositories (used for sharing),  Non-bare repositories (used for development).
